@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (tf-gpu)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DeepLearning_tutorials-master" />
+    <orderEntry type="module" module-name="【Keras-MobileNet v1】CIFAR-10" />
+    <orderEntry type="module" module-name="megengine" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="Scripts" />
+  </component>
+</module>
